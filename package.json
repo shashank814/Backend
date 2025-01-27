@@ -12,5 +12,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon src/inex.js"
+  },
+  "devDependencies": {
+    "prettier": "^3.4.2"
   }
 }
